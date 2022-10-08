@@ -9,9 +9,14 @@ body {
 
 .box {
 	display: flex;
+	flex-wrap: wrap;
 	align-items: center;
-	justify-content: center;
 }
+
+.break {
+	flex-basis: 100%;
+	height: 0;
+  }
 
 h1 {
 	font: 600 3.5em 'Raleway', sans-serif;
