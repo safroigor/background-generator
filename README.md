@@ -1,1 +1,1 @@
-# background-generator
+# https://safroigor.github.io/background-generator/
